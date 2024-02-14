@@ -140,17 +140,13 @@ h1 {
 Here is another comment.
 -->
 ---
-theme: seriph
-layout: none
-background: 'https://source.unsplash.com/1600x900/?nature,water'
-
-transition: slide-up
-level: 3
+layout: quote
+image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
 
 # 📖Tinjauan Pustaka
 
-```ts {all|1-4|5-7|8-10|11-13|14-16|17|18-19|all} twoslash
+```ts {all|1,2|1,3-4|1,5|1,6|all|none} twoslash
 `
 Sistem pembayaran merupakan sistem yang berhubungan dengan pemindahan sejumlah nilai uang dari satu 
 pihak ke pihak lain.
@@ -162,7 +158,7 @@ transportasi adalah perpindahan orang atau barang dengan menggunakan alat atau k
 ke tempat-tempat yang terpisah secara geografis.
 
 Bus kota merupakan alat transportasi jasa untuk mengangkut manusia dari suatu tempat ke tempat lain
-melalui jalan-jalan kelas satu di suatu kota. 
+ melalui jalan-jalan kelas satu di suatu kota. 
 
 Radio-Frequency Identification (RFID) adalah teknologi yang menggunakan gelombang radio untuk 
 mengidentifikasi secara otomatis terhadap suatu objek atau manusia baik secara jarak jauh maupun dekat.
@@ -199,7 +195,7 @@ background: 'https://source.unsplash.com/1600x900/?nature,water'
 
 # 📖Tinjauan Pustaka
 
-```ts {all|1-3|4-5|6-8|9-13|14-16|17|18-20|all|} twoslash
+```ts {all|1,2|1,3-4|1,5|1,6|all|none} twoslash
 `
 Agile software development merupakan sebuah cara yang dilakukan dalam pengembangan perangkat lunak dengan
 sifat yang lincah dan cepat dan berbasis iterasi.
@@ -244,318 +240,6 @@ Here is another comment.
 -->
 
 ---
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
-
-transition: slide-up
-level: 3
----
-
-# 🔍Flowmap berjalan
-
-
-
-```ts {all|5|7|7-8|10|all} twoslash
-
-```
-
-
-
-<!-- Footer -->
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
-
-<!-- Inline style -->
-<style>
-.footnotes-sep {
-  @apply mt-5 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
-</style>
-
----
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
-
-transition: slide-up
-level: 3
----
-
-# 🔍Flowmap usulan  
-
-
-
-```ts {all|5|7|7-8|10|all} twoslash
-
-```
-
-
-
-<!-- Footer -->
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
-
-<!-- Inline style -->
-<style>
-.footnotes-sep {
-  @apply mt-5 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
-</style>
----
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
-
-transition: slide-up
-level: 3
----
-
-# 🔍Usecase 
-
-
-
-```ts {all|5|7|7-8|10|all} twoslash
-
-```
-
-
-
-<!-- Footer -->
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
-
-<!-- Inline style -->
-<style>
-.footnotes-sep {
-  @apply mt-5 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
-</style>
-
----
-class: px-20
-
-transition: slide-up
-level: 3
----
-
-# 🔍Activity Diagram
-
-
-<div grid="~ cols-2 gap-2" m="t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true" alt="">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true" alt="">
-
-</div>
-
-
----
-transition: slide-up
-level: 3
----
-
-# 🔍Activity Diagram
-
-
-<div grid="~ cols-2 gap-2" m="t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true" alt="">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true" alt="">
-
-</div>
-
-
----
-transition: slide-up
-level: 3
----
-
-# 🔍Activity Diagram
-
-
-<div grid="~ cols-2 gap-2" m="t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true" alt="">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true" alt="">
-
-</div>
-
----
-class: px-20
-
-transition: slide-up
-level: 3
----
-
-# 🔍Activity Diagram
-
-
-<div grid="~ cols-2 gap-2" m="t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true" alt="">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true" alt="">
-
-</div>
-
-
----
-transition: slide-up
-level: 3
----
-
-# 🔍Activity Diagram
-
-
-<div grid="~ cols-2 gap-2" m="t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true" alt="">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true" alt="">
-
-</div>
-
-
----
-transition: slide-up
-level: 3
----
-
-# 🔍Activity Diagram
-
-
-<div grid="~ cols-2 gap-2" m="t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true" alt="">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true" alt="">
-
-</div>
-
-
----
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
-
-transition: slide-up
-level: 3
----
-
-# 🔍Usecase 
-
-
-
-```ts {all|5|7|7-8|10|all} twoslash
-
-```
-
-
-
-<!-- Footer -->
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
-
-<!-- Inline style -->
-<style>
-.footnotes-sep {
-  @apply mt-5 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
-</style>
-
----
 layout: default
 ---
 
@@ -573,15 +257,18 @@ transition: slide-up
 level: 2
 ---
 
-# Kesimpulan
+# Navigation
 
- metode Agile bersifat fleksible dalam pengembangan sebuah sistem. Pengembangan server dapat di lakukan di local-machine menggunakan javascript dan server Firebase dapat meningkatkan kecepatan pengembangan. Kemudian device Arduino mampu digunakan sebagai pusat control yang membaca kartu RFID untuk mengirimkan action tap yang dilakukan untuk selanjutnya di verifikasi dan digunakan untuk mengupdate data firebase yang di tampilkan dalam bentuk maps, Dari penelitian penulis dapat menghasilkan produk berupa device scan RFID yang terhubung dengan sistem server. Dengan adanya sistem ini pada sistem transportasi bus dihharapkan siswa yang menggunakan transportasi bus kota untuk dapat lebih mudah mengetahui lokasi bus terkini kemudian dapat menyesuaikan dengan titik pemberhentian bus, untuk orang tua diharapkan dengan sitem yang dibuat dapat memantau perjalanan anak-anaknya ke sekolah.
+Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/navigation.html)
 
-# Saran
-Diharapkan selanjutnya sistem ini dapat dikembangkan lagi dengan lebih banyak fitur-fitur yang lebih banyak serta lebih menarik.
-Dalam pengembangan selanjutnya diharapkan sistem ini dapat di aplikasikan juga oleh Masyarakat luas selain siswa sekolah secara luas
+## Keyboard Shortcuts
 
-
+|     |     |
+| --- | --- |
+| <kbd>right</kbd> / <kbd>space</kbd>| next animation or slide |
+| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
+| <kbd>up</kbd> | previous slide |
+| <kbd>down</kbd> | next slide |
 
 <!-- https://sli.dev/guide/animations.html#click-animations -->
 <img
